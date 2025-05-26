@@ -8,7 +8,7 @@ This folder represents the dynamic `section` of a hello world route under `/adva
 
 
 ## Purpose:
-This allows multiple nested views per tool or workflow, reusing a single `page.tsx` with dynamic rendering based on the `section` name.
+This allows multiple nested views per tool , reusing a single `page.tsx` with dynamic rendering based on the `section` name.
 
 ##  Accessing values:
 ```tsx
